@@ -1,5 +1,9 @@
 ## Python
 
+Reference 
+- AWS: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html
+- GCP: https://cloud.google.com/python/docs/reference/compute/latest
+
 # Supported use cases and equivalence matrix for Compute service
 
 **Instances**
