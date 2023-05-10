@@ -80,4 +80,4 @@ Reference
 | Functionality | AWS EC2 | Google Cloud Compute Engine |
 | --- | --- | --- |
 | Create tags | `create_tags()` | `add_tags()` |
-| Describe tags |
+| Describe tags | `describe_tags()` | `list()` |
